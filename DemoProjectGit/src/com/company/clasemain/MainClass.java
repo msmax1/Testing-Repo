@@ -12,5 +12,7 @@ public class MainClass {
 
         var varTesting = 0;
         System.out.println(varTesting);
+
+        System.out.println("Comment from another account");
     }
 }
