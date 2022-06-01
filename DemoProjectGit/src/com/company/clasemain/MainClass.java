@@ -9,5 +9,8 @@ public class MainClass {
         System.out.println("This a new test");
         System.out.println("This a new testing proyect");
         System.out.println("New line added");
+
+        var varTesting = 0;
+        System.out.println(varTesting);
     }
 }
