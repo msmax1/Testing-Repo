@@ -8,6 +8,7 @@ public class TestingClass2 {
         System.out.println("New print");
 
         System.out.println("Print to another branch");
+        System.out.println("Second branch");
     }
     //Just a demo class for git
 }
